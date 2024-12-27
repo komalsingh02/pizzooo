@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div>This is pizza shop</div>
-      <Button variant="outline">Button</Button>
+      <Button>Button</Button>
     </>
   );
 }
